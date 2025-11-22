@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Fasil K. I am currently learning technology and growing my skills. I enjoy working with creative tools like graphics design, video editing, and digital creation. I am trying to improve every day by practicing and learning new things.
+
+This repository was created to practice creating and committing files on GitHub as part of a GitHub learning task.
